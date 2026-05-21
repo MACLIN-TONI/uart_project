@@ -1,1 +1,2 @@
 UART protocol notes
+SPI protocol notes
